@@ -1,2 +1,0 @@
-# CMPT276-
-Assignments
