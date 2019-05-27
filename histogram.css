@@ -1,0 +1,48 @@
+<head><style>body {
+	margin: 0;
+	font-size: 13px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+section1 {
+	background: #E9F8FF;
+	width: 45%;
+	margin: 10px;
+	float: left;
+}
+
+.title1 {
+	color: #ce380e;
+	font-size: 18px;
+}
+
+section2 {
+	background: #E9F8FF;
+	width: 40%;
+	margin: 10px;
+	float: left;
+}
+
+.title2 {
+	color: #ce380e;
+	font-size: 18px;
+}
+
+.inputdata input {
+	margin-left: 220px;
+	text-align: center;
+	font-family: Georgia;
+
+}
+
+.inputdata label {
+	position: absolute;
+	padding-left: 50px;
+}
+
+.hgraph {
+	padding-left: 50px;
+}
+
+
+</style></head>
